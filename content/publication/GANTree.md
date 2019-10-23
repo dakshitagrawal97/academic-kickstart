@@ -4,7 +4,7 @@ date = 2019-07-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jogendra Nath Kundu", "Maharshi Gor", "**Dakshit Agrawal**", "R. Venkatesh Babu"]
+authors = ["Jogendra Nath Kundu&ast;", "Maharshi Gor&ast;", "**Dakshit Agrawal**", "R. Venkatesh Babu"]
 
 # Publication type.
 # Legend:
@@ -19,16 +19,16 @@ authors = ["Jogendra Nath Kundu", "Maharshi Gor", "**Dakshit Agrawal**", "R. Ven
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Computer Vision 2019"
+publication = "IEEE International Conference on Computer Vision 2019"
 publication_short = "ICCV 2019"
 
 # Abstract and optional shortened version.
 abstract = "Despite the remarkable success of generative adversarial networks, their performance seems less impressive for diverse training sets, requiring learning of discontinuous mapping functions. Though multi-mode prior or multigenerator models have been proposed to alleviate this problem, such approaches may fail depending on the empirically chosen initial mode components. In contrast to such bottom-up approaches, we present GAN-Tree, which follows a hierarchical divisive strategy to address such discontinuous multi-modal data. Devoid of any assumption on the number of modes, GAN-Tree utilizes a novel modesplitting algorithm to effectively split the parent mode to semantically cohesive children modes, facilitating unsupervised clustering. Further, it also enables incremental addition of new data modes to an already trained GAN-Tree, by updating only a single branch of the tree structure. As compared to prior approaches, the proposed framework offers a higher degree of flexibility in choosing a large variety of mutually exclusive and exhaustive tree nodes called GANSet. Extensive experiments on synthetic and natural image datasets including ImageNet demonstrate the superiority of GAN-Tree against the prior state-of-the-art."
 
-abstract_short = "jfakdjfhafhkajhf"
+abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "iccv_fig.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -46,13 +46,14 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1908.03919.pdf"
+url_preprint = "https://arxiv.org/abs/1908.03919v3"
 url_code = "https://github.com/val-iisc/GANTree"
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+# url_poster = "https://drive.google.com/file/d/1_2FftUxtxkJM4DkRpnlXUh6HbD3x4XGr/view?usp=sharing"
+url_poster = "img/gan_tree_iccv_poster.pdf"
 url_source = ""
 
 # Custom links (optional).
@@ -68,7 +69,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "iccv_fig.jpg"
 caption = "GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions"
 
 +++

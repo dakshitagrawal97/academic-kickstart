@@ -8,8 +8,8 @@ date = 2018-06-28T00:00:00
 count = 5
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Recent News"
- subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/archive/pastnews)"
+title = "News"
+ subtitle = ""
 
 # Order that this section will appear in.
 weight = 02
