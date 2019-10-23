@@ -18,13 +18,13 @@ organizations:
   url: "https://www.iitr.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, more specifically deep learning in computer vision and reinforcement learning.
+bio: I am broadly interested in deep learning, with applications in computer vision and reinforcement learning, or at the intersection of computer vision and natural language processing.
 
 interests:
-- Artificial Intelligence
 - Deep Learning
 - Computer Vision
 - Reinforcement Learning
+- Natural Language Processing
 
 education:
   courses:
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Dakshit!  I am a Senior student in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. 
+Hi, I am Dakshit, a senior student in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. 
 
-I am looking for PhD positions.  I have primarily worked on applying deep learning to computer vision and reinforcement learning, and my interests lie in the same. 
+I am looking for PhD positions.  I am broadly interested in deep learning, with applications at the intersection of computer vision, reinforcement learning and natural language processing.
