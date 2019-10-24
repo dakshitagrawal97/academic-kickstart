@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Dakshit, a senior student in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. 
+Hi, I am Dakshit, a senior B. Tech. student in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. 
 
 I am looking for PhD positions.  I am broadly interested in deep learning, with applications at the intersection of computer vision, reinforcement learning and natural language processing.
