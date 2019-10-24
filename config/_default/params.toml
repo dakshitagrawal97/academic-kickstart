@@ -90,7 +90,7 @@ phone = "+91 89630 63899"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Room No. BS-30, Govind Bhawan, IIT Roorkee", city = "Roorkee", region = "Uttarakhand", postcode = "247887", country = "India", country_code = "US"}
+address = {street = "Room No. BS-30, Govind Bhawan, IIT Roorkee", city = "Roorkee", region = "Uttarakhand", postcode = "247667", country = "India", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
