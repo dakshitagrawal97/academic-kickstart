@@ -29,8 +29,10 @@ interests:
 education:
   courses:
   - course: B. Tech. in Computer Science and Engineering
-    institution: Indian Institute of Technology Roorkee
+    institution: Indian Institute of Technology Roorkee  
+    cgpa: 9.37
     year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

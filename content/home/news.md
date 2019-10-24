@@ -16,8 +16,18 @@ weight = 02
 
 +++
 
--   **June 28, 2018**:
-    Jinyuan Zhang is awarded the **_Best Paper by a Young Researcher Award (£1500)_** in [2nd CEPR-Imperial-Plato Market Innovator (MI3) Conference 2018 on Market Structur](https://www.imperial.ac.uk/business-school/events/fintech-centre/cepr-imperial-plato-conference/).
+-   **November 2019**: I will be visiting **ICCV 2019** at Seoul, Korea!  Do give Poster 55 a visit in the morning session on Friday, November 1 if you are attending.
 
--   **May 18, 2018**:
-    Paper [Conditional Extremes in Asymmetric Financial Market](://www.tandfonline.com/doi/full/10.1080/07350015.2018.1476248?scroll=top&needAccess=true), with Natalia Nolde, gets accepted by **_Journal of Business and Economic Statistics_**
+-   **July 2019**: Our paper "GAN-Tree" has been accepted at **ICCV 2019**!
+
+-   **April 2019**:
+    Awarded the **SN Bose Scholarship**! Will be visiting **Prof. Katerina Fragkiadaki** at CMU over the summers.
+
+-   **November 2018**:
+    Accepted as a research intern at Video Analytics Lab, IISc! Will be visiting **Prof. R. Venkatesh Babu** over the winters.
+
+-   **August 2018**:
+    Our paper "An Attention Model for Group Level Emotion Recognition" has been accepted at **ICMI 2018**!
+
+-   **April 2018**:
+    Excited to work with **Prof. Marco Pedersoli** and **Prof. Jose Dolz** over the summers!
