@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 4th year B. Tech. CSE student
+role: Final Year B. Tech. CSE student
 
 # Organizations/Affiliations
 organizations:
@@ -28,11 +28,13 @@ interests:
 
 education:
   courses:
-  - course: B. Tech. in Computer Science and Engineering
-    institution: Indian Institute of Technology Roorkee  
-    cgpa: 9.37
-    year: 2020
+  - course: B. Tech. in Computer Science
+    institution: Indian Institute of Technology Roorkee
 
+    CGPA: 9.37 
+    year: 2020
+<!--     CGPA: 9.37
+ -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Dakshit, a senior B. Tech. student in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. 
+Hi, I am Dakshit, a senior B. Tech. student in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Roorkee. I will be graduating in 2020.
 
-I am looking for PhD positions.  I am broadly interested in deep learning, with applications at the intersection of computer vision, reinforcement learning and natural language processing.
+I am broadly interested in deep learning, with applications at the intersection of computer vision, reinforcement learning and natural language processing.
